@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167633457613",
+    "firebase_url": "https://parada-busao.firebaseio.com",
+    "project_id": "parada-busao",
+    "storage_bucket": "parada-busao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167633457613:android:468b458d9bf65e4f",
+        "android_client_info": {
+          "package_name": "barros.jeferson.paradabusao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167633457613-jpb9m19k5ielc94qbbop7cuad608ck52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "barros.jeferson.paradabusao",
+            "certificate_hash": "176D6F4D2E15968A01B2E390BB8418DC112E645D"
+          }
+        },
+        {
+          "client_id": "167633457613-euq3q768021vgvumfqp3scapuuq8v87n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuon7tJXQwYyvZsxLKvrLyRWGctIgo7ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167633457613-euq3q768021vgvumfqp3scapuuq8v87n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
